@@ -1,0 +1,13 @@
+.postFoto
+{
+    display: inline-block;
+    width: 100px;
+}
+.postText
+{
+    display: inline-block;
+    color: white;
+    vertical-align: top;
+    padding-left: 20px;
+    font-size: 20px;
+}

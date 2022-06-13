@@ -1,0 +1,29 @@
+.nav
+{
+  grid-area: n;
+  background-color: #5064e1;
+  padding-bottom: 50px;
+  text-decoration: none;
+  color: white
+}
+.item a
+{
+  display: block;
+  width: 100%;
+  padding-left: 30px;
+  margin-top: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+.item a.activeLink
+{
+  font-weight: 700;
+  color: black
+}
+
+
+.navbarSetting
+{
+  margin-top: 30px;
+}
